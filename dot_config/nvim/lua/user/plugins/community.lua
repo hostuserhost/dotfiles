@@ -1,0 +1,15 @@
+return {
+  "AstroNvim/astrocommunity",
+ { import = "astrocommunity.remote-development.netman-nvim" },
+  { import = "astrocommunity.remote-development.distant-nvim" },
+  { import = "astrocommunity.pack.dart" },
+ { import = "astrocommunity.pack.html-css"},
+   { import = "astrocommunity.pack.bash" },
+   { import = "astrocommunity.colorscheme.neosolarized-nvim"},
+ { import = "astrocommunity.workflow.hardtime-nvim"},
+ { import = "astrocommunity.workflow.bad-practices-nvim"},
+ { import = "astrocommunity.completion.codeium-vim" },
+ { import = "astrocommunity.pack.php" },
+ { import = "astrocommunity.pack.yaml" },
+ { import = "astrocommunity.project.projectmgr-nvim" },
+}
